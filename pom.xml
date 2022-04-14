@@ -167,6 +167,8 @@
                                   <format>html</format>
                                   <format>xml</format>
                                   </format>
+                        
+                    <dependencyLocationsEnabled>false</dependencyLocationsEnabled>
                 </configuration>
        </plugin>
 
