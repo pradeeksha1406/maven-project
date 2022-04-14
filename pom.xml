@@ -163,7 +163,7 @@
           <artifactId>cobertura-maven-plugin</artifactId>
           <version>$(cobertura.version)</version>
                 <configuration>
-                         <formats>
+                         <format>
                                   <format>html</format>
                                   <format>xml</format>
                                   </format>
