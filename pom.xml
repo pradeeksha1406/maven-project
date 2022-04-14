@@ -213,7 +213,6 @@
         <version>1.2.1</version>
         <scope>test</scope>
       </dependency>
-             
                      
     <dependency>
       <groupId>org.codehaus.mojo</groupId>
@@ -221,8 +220,6 @@
       <version>2.7</version>
       <scope>test</scope>             
     </dependency>       
-               
-</dependency>
 
       <dependency>
         <groupId>org.mockito</groupId>
